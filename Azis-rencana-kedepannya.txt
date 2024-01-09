@@ -1,3 +1,6 @@
 RENCANA KEDEPANNYA 
 - Belajar semua framework css/javascript
+  *bootstrap
+  *reactjs
+  *node.js
 - Buat project yang di upload di hosting apapun
