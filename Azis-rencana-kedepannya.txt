@@ -8,3 +8,4 @@ RENCANA KEDEPANNYA
 - Buat project yang di upload di hosting apapun
 - belajar backend
 - belar python
+
