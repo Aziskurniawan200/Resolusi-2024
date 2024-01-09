@@ -4,3 +4,4 @@ RENCANA KEDEPANNYA
   *reactjs
   *node.js
 - Buat project yang di upload di hosting apapun
+- belajar backend
