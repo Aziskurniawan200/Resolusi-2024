@@ -3,7 +3,9 @@ RENCANA KEDEPANNYA
   *bootstrap
   *reactjs
   *node.js
-  *ember.js
+  *Vue
+  *angular
+- Buat project yang di upload di hosting apapun
 - belajar backend
-  *php
-  *python
+- belar python
+
